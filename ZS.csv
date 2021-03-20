@@ -1,0 +1,16 @@
+Ad#,Aired Duration,Time of Ad,Length of Ad ,Upbeat Music ,Spend ($),S1,S2,S3,S4
+1,Cartoons,10:00-11:59p,150,No,$600,0,0,0,1
+2,Sports Event,7:00-10:00p,180,Yes,$400,0,1,1,0
+3,Cartoons,5:00-7:00p,300,No,$300,0,0,0,0
+4,Movie,5:00-7:00p,150,Yes,$300,0,0,1,0
+5,Sports Event,5:00-7:00p,300,No,$400,0,1,0,0
+6,TV Series,5:00-7:00p,120,Yes,$450,1,0,1,0
+7,TV Series,7:00-10:00p,90,No,$200,1,0,1,0
+8,Sports Event,7:00-10:00p,150,No,$1000,0,1,1,1
+9,Sports Event,7:00-10:00p,60,Yes,$800,1,1,1,1
+10,Sports Event,10:00-11:59p,90,No,$450,1,1,0,0
+11,Movie,10:00-11:59p,60,No,$300,1,0,0,0
+12,Cartoons,10:00-11:59p,90,Yes,$600,0,0,1,1
+13,Movie,5:00-7:00p,120,No,$600,,,,
+14,Sports Event,5:00-7:00p,90,Yes,$800,,,,
+15,Cartoons,10:00-11:59p,90,No,$500,,,,
